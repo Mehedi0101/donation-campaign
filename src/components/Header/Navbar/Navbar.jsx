@@ -10,7 +10,7 @@ const Navbar = () => {
 
     return (
         <>
-            <div className='text-dark1 hidden md:flex justify-between items-center px-5 md:px-10 lg:px-14 xl:px-20 py-5'>
+            <div className='hidden md:flex justify-between items-center px-5 md:px-10 lg:px-14 xl:px-20 py-5 w-full max-w-screen-2xl absolute'>
                 <Link to='/'><img className='w-4/6 xl:w-5/6' src={logo} alt="" /></Link>
                 <div className='text-lg flex gap-10'>
                     <NavLink to='/'>Home</NavLink>
@@ -18,7 +18,7 @@ const Navbar = () => {
                     <NavLink to='/statistics'>Statistics</NavLink>
                 </div>
             </div>
-            <div className='text-dark1 px-5 py-5 md:hidden'>
+            <div className='px-5 py-5 md:hidden absolute'>
                 <div className='flex items-center gap-2'>
                     <FiMenu onClick={() => setShowStatus(!showStatus)} className='text-xl' />
                     <Link className='flex justify-center' to='/'><img className='w-1/2' src={logo} alt="" /></Link>

@@ -1,0 +1,13 @@
+#banner{
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+
+    background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("../../../assets/banner-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
