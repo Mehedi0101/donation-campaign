@@ -10,6 +10,8 @@ const DonationDetails = () => {
 
     const { id, picture, title, description, price, text_color } = useLoaderData().find(card => card.id == numericId);
 
+    document.title = title;
+
     const showNotification = () => {
         Store.addNotification({
             title: "Successful!",

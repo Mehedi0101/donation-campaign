@@ -7,6 +7,8 @@ export const YourDonationContext = createContext();
 
 const YourDonations = () => {
 
+    document.title = 'Your Donations';
+
     const allDonations = useLoaderData();
     
     const [ yourDonationsId, setYourDonationsId ] = useState([]);

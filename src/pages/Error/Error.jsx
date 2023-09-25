@@ -1,6 +1,8 @@
 import { useNavigate } from "react-router";
 
 const Error = () => {
+    document.title = 'Error';
+    
     const navigate = useNavigate();
 
     const handleGoHome = () => {

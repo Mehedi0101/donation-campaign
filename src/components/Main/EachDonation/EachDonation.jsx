@@ -3,16 +3,14 @@ import { DonationContext } from "../AllDonations/AllDonations";
 import { useNavigate } from "react-router-dom";
 
 const EachDonation = () => {
-
     const { id, picture, title, category, text_color, category_bg_color, card_bg_color } = useContext(DonationContext);
 
     const navigate = useNavigate();
 
     const handleCard = () => {
-        navigate(`/donations/${id}`);
+        navigate(`/donation-details/${id}`);
     }
-
-
+    
     return (
             <div onClick={handleCard} style={{backgroundColor: card_bg_color}} className="flex flex-col pb-4 rounded-lg cursor-pointer active:scale-95 transition-transform">
                 <img className="object-cover h-40 rounded-t-lg mb-4" src={picture} alt="" />

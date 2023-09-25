@@ -4,6 +4,9 @@ import { useLoaderData } from "react-router";
 import { Cell, Pie, PieChart } from "recharts";
 
 const Statistics = () => {
+
+    document.title = 'Statistics';
+
     const totalDonation = useLoaderData();
     const [yourDonationsId, setYourDonationsId] = useState([]);
 

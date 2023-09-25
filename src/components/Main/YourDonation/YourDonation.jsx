@@ -9,7 +9,7 @@ const YourDonation = () => {
     const navigate = useNavigate();
 
     const handleViewDetails = () => {
-        navigate(`/donations/${id}`);
+        navigate(`/donation-details/${id}`);
     }
 
     return (

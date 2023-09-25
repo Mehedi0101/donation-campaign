@@ -6,6 +6,8 @@ export const SearchedDataContext = createContext();
 
 const Home = () => {
 
+    document.title = 'Donation Campaign';
+
     const [searchedData, setSearchedData] = useState([]);
     const [emptyField, setEmptyField] = useState([true]);
 
