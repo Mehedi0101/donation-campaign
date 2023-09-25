@@ -22,7 +22,7 @@ const YourDonation = () => {
             <div className="py-4 pr-4 flex gap-2 flex-col justify-between w-1/2 md:w-2/3">
                 <div style={{backgroundColor: category_bg_color, color: text_color}} className="text-sm w-fit px-3 py-1 rounded font-medium mb-1">{category}</div>
                 <h2  className="text-lg md:text-xl font-semibold">{title}</h2>
-                <h3  style={{color: text_color}} className="font-semibold text-xs md:text-sm">{price}</h3>
+                <h3  style={{color: text_color}} className="font-semibold text-xs md:text-sm">${price}</h3>
                 <button onClick={handleViewDetails} style={{backgroundColor: text_color}} className="px-5 py-2 text-white font-semibold rounded active:scale-95 transition-transform w-fit">View Details</button>
             </div>
 

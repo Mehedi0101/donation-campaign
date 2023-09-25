@@ -18,7 +18,7 @@ const Navbar = () => {
                     <NavLink to='/statistics'>Statistics</NavLink>
                 </div>
             </div>
-            <div className='px-5 py-5 md:hidden absolute w-full'>
+            <div className='px-5 py-5 md:hidden absolute w-full z-10'>
                 <div className='flex items-center gap-2'>
                     <FiMenu onClick={() => setShowStatus(!showStatus)} className='text-xl' />
                     <Link className='flex justify-center flex-1' to='/'><img className='w-32' src={logo} alt="" /></Link>
