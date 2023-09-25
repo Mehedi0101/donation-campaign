@@ -5,7 +5,7 @@
         "title": "School Supplies for Underprivileged Kids",
         "category": "Education",
         "description": "Support our initiative to provide School Supplies for Underprivileged Kids and make a lasting impact on the education of children in underserved communities. Many young students lack basic school supplies like notebooks, pencils, and backpacks, which can hinder their learning.\n\nYour donation will ensure that these children have access to the tools they need to succeed in school. By contributing, you're helping to level the playing field and giving these kids a fair chance to excel academically.\n\nEducation is a fundamental right, and your support will help us bridge the educational gap and empower these young minds to reach their full potential. Join us in this educational journey and invest in the future of our community.",
-        "price": 15,
+        "price": "15.00",
         "text_color": "#FF444A",
         "category_bg_color": "#ff444a33",
         "card_bg_color": "#ff444a26"
@@ -16,7 +16,7 @@
         "title": "Warm Clothing for the Homeless",
         "category": "Clothing",
         "description": "Help provide Warm Clothing for the Homeless and make a difference in the lives of those without shelter. Homeless individuals face extreme challenges, especially during cold winter months when temperatures drop dangerously low.\n\nYour donation will go towards purchasing warm winter coats, blankets, and clothing items to help them stay safe and comfortable. By contributing, you're providing essential warmth and protection to those in need.\n\nHomelessness can happen to anyone, and your support offers a lifeline to individuals experiencing this hardship. Join us in our mission to provide comfort and dignity to those who are most vulnerable in our community.",
-        "price": 25,
+        "price": "25.00",
         "text_color": "#79C23F",
         "category_bg_color": "#79c23f33",
         "card_bg_color": "#79c23f26"
@@ -27,7 +27,7 @@
         "title": "Nutrition Support for Families in Crisis",
         "category": "Health",
         "description": "Support our Nutrition Support for Families in Crisis program and help combat hunger and food insecurity in our community. Many families, especially during difficult times, struggle to put nutritious meals on the table. Your donation will provide them with essential nutrition kits that include items like grains, canned goods, fresh produce, and vitamins.\n\nThese kits are a lifeline for families facing food shortages, ensuring that children and parents receive the nutrients they need to stay healthy and thrive. By contributing, you become a vital part of this initiative, making a direct and immediate impact on the lives of those in need.\n\nYour generosity will not only fill empty stomachs but also provide hope and relief to families during challenging circumstances. Join us in the fight against hunger and support our mission to create a community where no one goes to bed hungry.",
-        "price": 30,
+        "price": "30.00",
         "text_color": "#0052FF",
         "category_bg_color": "#0052ff33",
         "card_bg_color": "#0052ff26"
@@ -38,7 +38,7 @@
         "title": "Sustainable Farming for Community Food Security",
         "category": "Food",
         "description": "Support Sustainable Farming for Community Food Security and help promote sustainable farming practices in our region. Sustainable agriculture is essential for ensuring long-term food security and environmental preservation.\n\nYour donation will assist local farmers in adopting eco-friendly farming methods and producing healthy, locally sourced food for their communities. By contributing, you're helping to create a more sustainable and resilient food system, reducing the environmental impact of agriculture, and supporting local food production.\n\nJoin us in this mission to strengthen our community's food security while protecting our natural resources for future generations.",
-        "price": 50,
+        "price": "50.00",
         "text_color": "#F87147",
         "category_bg_color": "#f8714733",
         "card_bg_color": "#f8714726"
@@ -49,7 +49,7 @@
         "title": "Mental Health Awareness Campaign",
         "category": "Health",
         "description": "Join our Mental Health Awareness Campaign and help break the stigma surrounding mental health issues. Mental health is an essential aspect of overall well-being, and yet, many individuals face discrimination and misunderstanding when seeking help.\n\nYour donation will fund a range of initiatives, including educational programs, workshops, and outreach efforts, aimed at promoting mental well-being and providing support to those in need. By supporting this campaign, you contribute to creating a more compassionate and understanding society.\n\nMental health affects people of all ages, backgrounds, and walks of life. Together, we can make a positive impact on the lives of individuals struggling with mental health challenges and work towards a future where everyone can access the support and care they deserve.",
-        "price": 20,
+        "price": "20.00",
         "text_color": "#0052FF",
         "category_bg_color": "#0052ff33",
         "card_bg_color": "#0052ff26"
@@ -60,7 +60,7 @@
         "title": "STEM Education for Girls Initiative",
         "category": "Education",
         "description": "Empower girls with the STEM Education for Girls Initiative, promoting gender equality in science, technology, engineering, and math (STEM) fields. Despite progress, women and girls are still underrepresented in STEM careers.\n\nYour donation will support programs and workshops that inspire and educate girls in STEM disciplines. By providing them with the tools and opportunities to explore these fields, you're opening doors to exciting career prospects and helping to bridge the gender gap in technology and innovation.\n\nInvesting in girls' STEM education is an investment in a more inclusive and diverse future, where everyone can contribute to solving the world's most pressing challenges. Join us in fostering a passion for STEM among young girls and ensuring they have the skills to thrive in the digital age.",
-        "price": 40,
+        "price": "40.00",
         "text_color": "#FF444A",
         "category_bg_color": "#ff444a33",
         "card_bg_color": "#ff444a26"
@@ -71,7 +71,7 @@
         "title": "Children's Clothing Assistance",
         "category": "Clothing",
         "description": "Help clothe underprivileged children through our Children's Clothing Assistance program. Many families struggle to provide basic clothing essentials like shirts, pants, and shoes for their children, limiting their ability to participate in school and daily activities comfortably.\n\nYour donation will make a significant impact by providing these essential clothing items to children in need. By ensuring that they have adequate clothing, you're contributing to their overall well-being and fostering a sense of belonging and dignity.\n\nJoin us in this clothing drive and make a positive difference in the lives of children in our community.",
-        "price": 20,
+        "price": "20.00",
         "text_color": "#79C23F",
         "category_bg_color": "#79c23f33",
         "card_bg_color": "#79c23f26"
@@ -82,7 +82,7 @@
         "title": "Children's Medical Care Program",
         "category": "Health",
         "description": "Support the Children's Medical Care Program and make a difference in the lives of underprivileged children. Your generous donation will provide essential medical supplies and access to quality healthcare for children who need it most. These young patients often face challenging medical conditions, and your contribution will help ease their pain and suffering.\n\nBy contributing to this program, you'll be part of a compassionate community dedicated to ensuring that every child receives the medical care they deserve. Your support will fund critical treatments, surgeries, and medications, giving hope to families who have been struggling with the burden of medical bills.\n\nTogether, we can create a brighter and healthier future for these children, offering them the chance to lead happy and fulfilling lives. Join us in this noble cause and make a lasting impact on the health and well-being of our youngest generation.",
-        "price": 50,
+        "price": "50.00",
         "text_color": "#0052FF",
         "category_bg_color": "#0052ff33",
         "card_bg_color": "#0052ff26"
@@ -93,7 +93,7 @@
         "title": "Meals for Seniors Outreach",
         "category": "Food",
         "description": "Join our Meals for Seniors Outreach program and help provide nutritious meals to senior citizens who may be isolated or unable to cook for themselves. For many seniors, access to regular, balanced meals and social interaction is vital for their health and well-being.\n\nYour donation will ensure that seniors receive not only nutritious meals but also the companionship and care they need to lead a healthy and fulfilling life. By contributing, you're making a significant difference in the lives of elderly members of our community.\n\nJoin us in this compassionate effort to support seniors in their golden years.",
-        "price": 15,
+        "price": "15.00",
         "text_color": "#F87147",
         "category_bg_color": "#f8714733",
         "card_bg_color": "#f8714726"
@@ -104,7 +104,7 @@
         "title": "Scholarship Fund for Underprivileged Students",
         "category": "Education",
         "description": "Empower bright but financially disadvantaged students with the Scholarship Fund for Underprivileged Students. Education is a powerful tool for breaking the cycle of poverty, but many talented students lack the financial means to pursue higher education.\n\nYour donation will provide scholarships to these deserving individuals, enabling them to access quality education and achieve their dreams. By investing in their future, you're not only transforming their lives but also contributing to the betterment of society as a whole.\n\nEducation is the key to unlocking opportunities and creating a brighter future. Join us in supporting these promising students and help pave the way for a more educated and equitable world.",
-        "price": 75,
+        "price": "75.00",
         "text_color": "#FF444A",
         "category_bg_color": "#ff444a33",
         "card_bg_color": "#ff444a26"
@@ -115,7 +115,7 @@
         "title": "Emergency Food Relief Program",
         "category": "Food",
         "description": "Support our Emergency Food Relief Program and help provide food packages to families facing immediate hunger. In times of crisis, many families struggle to put food on the table, leading to food insecurity and hunger.\n\nYour contribution will ensure that no one goes to bed hungry. By donating, you're offering a lifeline to those in need and helping alleviate food insecurity in our community. Your support will provide essential food items, including grains, canned goods, and fresh produce, to families during their time of greatest need.\n\nJoin us in this crucial mission to provide sustenance and hope to our neighbors facing food emergencies.",
-        "price": 10,
+        "price": "10.00",
         "text_color": "#F87147",
         "category_bg_color": "#f8714733",
         "card_bg_color": "#f8714726"
@@ -126,7 +126,7 @@
         "title": "Dress for Success Program",
         "category": "Clothing",
         "description": "Support our Dress for Success Program and help job seekers dress professionally for interviews and employment opportunities. Many individuals facing unemployment lack appropriate attire for job interviews, which can hinder their chances of success.\n\nYour donation will assist these job seekers in obtaining professional clothing and accessories, empowering them to make a positive impression during interviews and secure stable employment. By contributing, you're playing a crucial role in their journey to economic independence and self-sufficiency.\n\nJoin us in our efforts to break down employment barriers and help individuals on their path to success.",
-        "price": 35,
+        "price": "35.00",
         "text_color": "#79C23F",
         "category_bg_color": "#79c23f33",
         "card_bg_color": "#79c23f26"

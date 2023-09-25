@@ -14,7 +14,7 @@ const Navbar = () => {
                 <Link to='/'><img className='w-4/6 xl:w-5/6' src={logo} alt="" /></Link>
                 <div className='text-lg flex gap-10'>
                     <NavLink to='/'>Home</NavLink>
-                    <NavLink to='/donation'>Donation</NavLink>
+                    <NavLink to='/your-donations'>Donation</NavLink>
                     <NavLink to='/statistics'>Statistics</NavLink>
                 </div>
             </div>
@@ -25,7 +25,7 @@ const Navbar = () => {
                 </div>
                 <div className={`text-sm flex flex-col gap-2 border border-primary1 p-6 w-fit rounded-lg absolute top-14 bg-white ${!showStatus && 'hidden'}`}>
                     <NavLink onClick={() => setShowStatus(false)} to='/'>Home</NavLink>
-                    <NavLink onClick={() => setShowStatus(false)} to='/donation'>Donation</NavLink>
+                    <NavLink onClick={() => setShowStatus(false)} to='/your-donations'>Donation</NavLink>
                     <NavLink onClick={() => setShowStatus(false)} to='/statistics'>Statistics</NavLink>
                 </div>
             </div>
