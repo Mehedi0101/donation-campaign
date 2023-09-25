@@ -18,10 +18,10 @@ const Navbar = () => {
                     <NavLink to='/statistics'>Statistics</NavLink>
                 </div>
             </div>
-            <div className='px-5 py-5 md:hidden absolute'>
+            <div className='px-5 py-5 md:hidden absolute w-full'>
                 <div className='flex items-center gap-2'>
                     <FiMenu onClick={() => setShowStatus(!showStatus)} className='text-xl' />
-                    <Link className='flex justify-center' to='/'><img className='w-1/2' src={logo} alt="" /></Link>
+                    <Link className='flex justify-center flex-1' to='/'><img className='w-32' src={logo} alt="" /></Link>
                 </div>
                 <div className={`text-sm flex flex-col gap-2 border border-primary1 p-6 w-fit rounded-lg absolute top-14 bg-white ${!showStatus && 'hidden'}`}>
                     <NavLink onClick={() => setShowStatus(false)} to='/'>Home</NavLink>
